@@ -36,7 +36,7 @@
                                 <input type="password" name="password" class="mb-2 form-control" id="password">
                             </div>
                             <div class="mb-4">
-                                <button class="btn rounded-3 w-100" style="background-color: rgb(61, 144, 215); color: white;">Login</button>
+                                <button class="btn rounded-3 w-100" style="background-color: rgb(51, 56, 160); color: white;">Login</button>
                             </div>
                             <div class="d-flex justify-content-center gap-3 text-center">
                                 <label for=""><a class="text-decoration-none" href="/register">Register</a></label>

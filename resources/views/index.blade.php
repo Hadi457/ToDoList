@@ -28,7 +28,7 @@
                     <form action="{{ route('todos.store') }}" method="POST" class="mb-3 d-flex gap-2 align-items-start">
                         @csrf
                         <input type="text" name="title" class="form-control" placeholder="Add a new task">
-                        <button type="submit" class="btn rounded-3 w-50" style="background-color: rgb(61, 144, 215); color: white;">Add Task</button>
+                        <button type="submit" class="btn rounded-3 w-50" style="background-color: rgb(51, 56, 160); color: white;">Add Task</button>
                     </form>
 
                     <ul class="list-group mt-3">
